@@ -1,0 +1,38 @@
+{
+  "_format": "hh-sol-cache-1",
+  "files": {
+    "/Users/candostyavuz/Desktop/Escrow-Hardhat/contracts/Escrow.sol": {
+      "lastModificationDate": 1628927364681,
+      "sourceName": "contracts/Escrow.sol",
+      "solcConfig": {
+        "version": "0.7.5",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.7.5"
+      ],
+      "artifacts": [
+        "Escrow"
+      ]
+    }
+  }
+}
